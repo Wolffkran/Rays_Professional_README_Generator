@@ -30,9 +30,24 @@ const questions = [
       choices: ['MIT', 'Apache 2.0', 'GPL', 'None'],
     },
   ];
-// TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
-
+// Function to generate README content
+function generateReadme(userInput) {
+    return `# ${userInput.title}
+  
+  ## Description
+  ${userInput.description}
+  
+  ## Installation
+  ${userInput.installation}
+  
+  ## Usage
+  ${userInput.usage}
+  
+  ## License
+  This project is licensed under the ${userInput.license} License.
+  `;
+  }
+  
 // TODO: Create a function to initialize app
 function init() {}
 
