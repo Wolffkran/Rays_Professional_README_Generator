@@ -47,7 +47,16 @@ function generateReadme(userInput) {
   This project is licensed under the ${userInput.license} License.
   `;
   }
-  
+// Function to write README file
+function writeToFile(fileName, data) {
+    fs.writeFile(fileName, data, (err) => {
+      if (err) {
+        console.error('Error writing README.md:', err);
+      } else {
+        console.log('README.md has been successfully generated.');
+      }
+    });
+  }
 // TODO: Create a function to initialize app
 function init() {}
 
