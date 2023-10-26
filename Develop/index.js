@@ -1,8 +1,35 @@
-// TODO: Include packages needed for this application
-
+// Include packages needed for this application
+const inquirer = require('inquirer');
+const fs = require('fs');
 // TODO: Create an array of questions for user input
-const questions = [];
-
+const questions = [
+    {
+      type: 'input',
+      name: 'title',
+      message: 'Enter the project title:',
+    },
+    {
+      type: 'input',
+      name: 'description',
+      message: 'Provide a project description:',
+    },
+    {
+      type: 'input',
+      name: 'installation',
+      message: 'Enter installation instructions:',
+    },
+    {
+      type: 'input',
+      name: 'usage',
+      message: 'Explain how to use your project:',
+    },
+    {
+      type: 'list',
+      name: 'license',
+      message: 'Select a license for your project:',
+      choices: ['MIT', 'Apache 2.0', 'GPL', 'None'],
+    },
+  ];
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {}
 
