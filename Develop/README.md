@@ -1,13 +1,13 @@
-# Test Title
+# Test
   
   ## Description
-  Test Description
+  Test
   
   ## Installation
-  Test instructions
+  Test
   
   ## Usage
-  Test directions
+  Test
   
   ## License
   This project is licensed under the MIT License.
