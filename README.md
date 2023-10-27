@@ -18,7 +18,10 @@ To effectively use this project, follow these instructions:
 2. Run node index.js
 3. Answer the following prompts
 
-![Sample Video](Develop/Assets/Videos/test.gif)
+<video width="320" height="240" controls>
+  <source src="Develop/Assets/Videos/test.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## License
 
