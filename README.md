@@ -7,18 +7,18 @@ This project serves as the starter code for a Professional README Generator. You
 ## Installation
 To set up the development environment, follow these installation steps:
 
-Step 1: Go to https://github.com/Wolffkran/Rays_Professional_README_Generator.git
-Step 2: Download the zip and extract to the chosen folder
-Step 3: Run npm install to download dependencies.
+1. Go to https://github.com/Wolffkran/Rays_Professional_README_Generator.git
+2. Download the zip and extract to the chosen folder
+3. Run npm install to download dependencies.
 
 ## Usage
 To effectively use this project, follow these instructions:
 
-Step 1: Open the integrated terminal
-Step 2: Run node index.js
-Step 3: Answer the following prompts
+1. Open the integrated terminal
+2. Run node index.js
+3. Answer the following prompts
 
-![Sample Image](./assets/images/test.png)
+![Sample Image](Assets/Images/test.png)
 
 ## License
 
