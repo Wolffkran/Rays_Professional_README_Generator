@@ -18,7 +18,7 @@ To effectively use this project, follow these instructions:
 2. Run node index.js
 3. Answer the following prompts
 
-![Sample Image](Assets/Images/test.png)
+![Sample Image](./Assets/Images/test.png)
 
 ## License
 
