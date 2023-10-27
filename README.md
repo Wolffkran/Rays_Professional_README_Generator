@@ -18,7 +18,7 @@ Step 1: Open the integrated terminal
 Step 2: Run node index.js
 Step 3: Answer the following prompts
 
-![Sample Image](assets/images/test.png)
+![Sample Image](./assets/images/test.png)
 
 ## License
 
