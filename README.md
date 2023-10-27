@@ -18,7 +18,7 @@ To effectively use this project, follow these instructions:
 2. Run node index.js
 3. Answer the following prompts
 
-![Sample Video](Develop/Assets/Videos/test.gif)
+![Sample Video](Develop/Assets/Videos/test.mp4)
 
 ## License
 
