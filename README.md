@@ -18,7 +18,8 @@ To effectively use this project, follow these instructions:
 2. Run node index.js
 3. Answer the following prompts
 
-[![Sample Video](https://cdn.discordapp.com/attachments/557347762614566924/1167297760312180786/test.mp4)
+[![Sample Video](https://cdn.discordapp.com/attachments/557347762614566924/1167297760312180786/test.mp4)](https://cdn.discordapp.com/attachments/557347762614566924/1167297760312180786/test.mp4)
+
 
 ## License
 
